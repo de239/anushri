@@ -30,3 +30,5 @@
 
 # DraftSight crap
 *.bak
+
+build/anu
